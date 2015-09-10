@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sophia.WeChat.Webapi", "Sophia.WeChat.Webapi\Sophia.WeChat.Webapi.csproj", "{52C360A9-0CCD-4A74-9B72-CE14562C74ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sophia.WeChat", "Sophia.WeCat\Sophia.WeChat.csproj", "{8E642CD1-81E2-4B00-A374-3CACAF98A36B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52C360A9-0CCD-4A74-9B72-CE14562C74ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C360A9-0CCD-4A74-9B72-CE14562C74ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52C360A9-0CCD-4A74-9B72-CE14562C74ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52C360A9-0CCD-4A74-9B72-CE14562C74ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E642CD1-81E2-4B00-A374-3CACAF98A36B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E642CD1-81E2-4B00-A374-3CACAF98A36B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E642CD1-81E2-4B00-A374-3CACAF98A36B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E642CD1-81E2-4B00-A374-3CACAF98A36B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
